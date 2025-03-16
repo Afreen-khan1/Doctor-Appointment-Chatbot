@@ -21,8 +21,8 @@ You can acess the live demo of Doctor Appointment Chatbot here:
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/doctor-appointment-chatbot.git
-   cd doctor-appointment-chatbot
+   git clone https://github.com/Afreen-khan1/Doctor-Appointment-Chatbot.git
+   cd Doctor-Appointment-Chatbot
    ```
 
 2. **Install Dependencies**:
