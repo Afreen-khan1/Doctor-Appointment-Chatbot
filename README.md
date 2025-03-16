@@ -1,6 +1,9 @@
-
 ## Overview
 The **Doctor Appointment Chatbot** is a web-based application designed to help users book, reschedule, or cancel appointments with doctors. It also provides medical information based on user queries. The chatbot uses a **symptom-to-specialty mapping** to recommend the right type of doctor for the user’s condition. Built using **Python** and **Streamlit**, the chatbot offers a user-friendly interface and efficient backend processing.
+
+## Live Demo
+you can acess the live demo of Doctor Appointment Chatbot here:
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://doctor-appointment-chatbot-9ob25egofzswfwde7k5q.streamlit.app/)
 
 ## Features
 - **Appointment Management**: Book, reschedule, or cancel appointments seamlessly.
