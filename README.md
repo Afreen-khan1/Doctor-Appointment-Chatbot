@@ -32,7 +32,7 @@ You can acess the live demo of Doctor Appointment Chatbot here:
 
 3. **Run the Application**:
    ```bash
-   streamlit run app.py
+   streamlit run infosys.py
    ```
 
 4. **Access the Chatbot**:
