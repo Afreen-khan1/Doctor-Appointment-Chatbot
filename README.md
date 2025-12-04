@@ -2,7 +2,7 @@
 The **Doctor Appointment Chatbot** is a web-based application designed to help users book, reschedule, or cancel appointments with doctors. It also provides medical information based on user queries. The chatbot uses a **symptom-to-specialty mapping** to recommend the right type of doctor for the user’s condition. Built using **Python** and **Streamlit**, the chatbot offers a user-friendly interface and efficient backend processing.
 
 ## Live Demo
-You can acess the live demo of Doctor Appointment Chatbot here:
+You can access the live demo of Doctor Appointment Chatbot here:
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://doctor-appointment-chatbot-9ob25eg32ofzswfwde7k5q.streamlit.app/)
 
 ## Features
@@ -65,7 +65,7 @@ You can acess the live demo of Doctor Appointment Chatbot here:
    - The chatbot will provide statistics and information about the disease.
 
 ## Dataset
-The chatbot uses a dataset of doctors and their specialties. The dataset is stored in a CSV file and can be downloaded from [Kaggle](https://www.kaggle.com/niksaurabh/doctors-speciality).
+The dataset is stored in a CSV file inside the project and contains doctor names and specialties.
 
 ## Future Enhancements
 - **Integration with Calendar APIs**: To sync appointments with Google Calendar or Outlook.
@@ -73,6 +73,9 @@ The chatbot uses a dataset of doctors and their specialties. The dataset is stor
 - **AI-Powered Recommendations**: Using machine learning to provide more accurate doctor recommendations based on user history.
 - **Voice Input**: Allowing users to interact with the chatbot using voice commands.
 
+
+## Developer
+Afreen Ahamed
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
